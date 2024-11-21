@@ -12,8 +12,8 @@
 
 <!-- description -->
 
-* A list of various tools for breaking the spell of addictive smart phone technology, and features for protecting the users health.
-* The author has a bias towards open source software, however all programs are evaulated based on their features.
+* A list of various mobile applications and system features for breaking the spell of addictive smart phone technology, and features for protecting the users health.
+* The author has a bias towards open source software, however all apps are evaulated based on their features.
 * Privacy violating applications are not welcome.
 
 </div>
@@ -46,7 +46,7 @@
 * ADB: Yes as expected for grayscale.
 ##### Authors Note
 * Farhans grayscale application detection is currently better.
-* I use this application.
+* Recommended :star:
 
 ---
 
@@ -65,7 +65,7 @@
 * ADB: Yes as expected for grayscale.
 ##### Authors Note
 * Best open source grayscaling of applications.
-* I use this application.
+* Recommended :star:
 
 ---
 
@@ -82,6 +82,27 @@
 * Network Required: NO :fire:
 ##### Authors Note
 * Unfortunately this app lacks any splash feature to make the user reconsider using the app like ScreenZen.
+
+---
+
+#### Mindful : Focus & Screen Time
+- [Mindful](https://play.google.com/store/apps/details?id=com.mindful.android)
+##### Features
+* App Limits: Mindful isn't just about blocking apps—it's about mindful usage. Set daily usage limits, and if you stick to them, you'll be rewarded with streaks! It's a fun way to stay accountable and reduce mindless scrolling.
+* Block Reels and Shorts: Eliminate distractions by blocking short-form content on Instagram, YouTube, Facebook, and Snapchat. Mindful helps you avoid the endless loop of Reels, Shorts, and similar distractions, so you can focus on what matters.
+* Detailed Analytics and Focus Timeline: Mindful provides insightful reports on your screen time and focus sessions, helping you track progress and make better digital choices. Review your focus history with the Focus Timeline.
+* Bedtime Mode for Better Sleep: Ensure restful nights with Bedtime Mode, which pauses distracting apps and activates Do Not Disturb.
+* Web Safety and Blocking: Mindful lets you block adult content and create custom blocklists for distracting websites. With a single tap, you can block internet access for specific apps too.
+* Invincible Mode for Discipline: Invincible Mode prevents changes to app timers and settings, ensuring you stick to your goals without any distractions or interruptions.
+* Smart Alerts and Emergency Breaks: Stay on track with timely reminders for focus sessions and screen time limits. If you need a break, the Emergency Pause feature temporarily lifts restrictions, resuming them automatically after a set time.
+* Ad-Free and Privacy-Focused: Mindful offers an ad-free, privacy-first experience, operating entirely offline so your data stays secure on your device.
+##### Cost
+* Free!
+##### Permissions
+* Network Required: NO :fire:
+##### Authors Note
+* Unfortunately this app lacks any splash feature to make the user reconsider using the app like ScreenZen.
+* No grayscale option like Farhan or DigitalDetox.
 
 ---
 
@@ -102,7 +123,7 @@
 * Network Required: NO :fire:
 ##### Editors Note
 * Best application of its type.
-* I use this application.
+* Recommended :star:
 
 ---
 
@@ -128,6 +149,7 @@
 #### Tasker
 - [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_AU)
 ##### Features
+* Almost anything is possible using Tasker.
 * It is possible to set grayscale based on what application is open, time of day, etc.
 * Also possible to set custom app timers.
 ##### Cost
@@ -137,6 +159,7 @@
 * ADB: Yes - for grayscale.
 ##### Editors Note
 * You will need to piece things together to make this work, however it can be entirely custom to you.
+* Tasker has security implications.
 
 ---
 
@@ -159,7 +182,7 @@
 * Network Required: No. :fire:
 * ADB: Yes - for grayscale.
 ##### Editors Note
-* I use this application.
+* Recommended :star:
 
 ---
 
