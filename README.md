@@ -110,7 +110,6 @@
 ### Proprietary
 #### 20 20 20 Eye Care
 - [Play Store](https://play.google.com/store/apps/details?id=com.mexdesigns.app202020&hl=en-US)
-- [Repository](https://github.com/tahaak67/Farhan)
 ##### Features
 * Notifies you after 20 minutes to give your eyes a break.
 * Starts countdown automatically when the screen is turned on.
@@ -184,6 +183,22 @@
 * ADB: Yes - for grayscale.
 ##### Editors Note
 * Recommended :star:
+
+#### minimalist phone: Screen Time
+- [Play Store](https://play.google.com/store/apps/details?id=com.qqlabs.minimalistlauncher)
+##### Features
+* Launcher replacement
+* Block websites
+* Mindful delay when opening an app
+* App blocker
+* In-app time reminder
+* Monochrome mode for selected apps (requires activation on PC or Mac)
+##### Cost
+* Free!
+##### Permissions
+* Network Required: Unknown.
+* ADB: Yes - for grayscale.
+##### Editors Note
 
 ---
 
