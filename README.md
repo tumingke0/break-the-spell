@@ -23,8 +23,10 @@
 ## Contents
 
 - [Android](#android)
-  - [Free and Open Source (FOSS)](#Free-and-Open-Source-Software-(FOSS))
+  - [Free and Open Source (FOSS)](#free-and-open-source-software-foss)
+    - [DetoxDroid](#detoxdroid)
   - [Proprietary](#proprietary)
+  - [Built-in-Features](#built-in-features)
 - [iOS](#ios)
 
 <!-- CONTENT -->
