@@ -53,6 +53,8 @@
 * Farhans grayscale application detection is currently better.
 * I use this application.
 
+---
+
 #### Farhan - Brake phone addiction
 - [Play Store](https://play.google.com/store/apps/details?id=ly.com.tahaben.farhan&hl=en-US)
 - [Repository](https://github.com/tahaak67/Farhan)
@@ -69,6 +71,8 @@
 ##### Authors Note
 * Best open source grayscaling of applications.
 * I use this application.
+
+---
 
 ### Proprietary
 #### 20 20 20 Eye Care
@@ -89,6 +93,8 @@
 * Best application of its type.
 * I use this application.
 
+---
+
 #### Digital Wellbeing (Google)
 - [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_AU)
 ##### Features
@@ -106,6 +112,8 @@
 ##### Editors Note
 * Not supported on many devices and custom roms i.e. [GrapheneOS](https://grapheneos.org/)
 
+---
+
 #### Tasker
 - [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_AU)
 ##### Features
@@ -119,19 +127,27 @@
 ##### Editors Note
 * You will need to piece things together to make this work, however it can be entirely custom to you.
 
+---
 
 ### Built in Features
+
+---
+
 #### Color correction - Grayscale
 ##### Quick Action
+---
 ##### Bind to Holding Down Volume Buttons
 * Bind holding down both volume buttons at the same time to toggle grayscale on/off.
 * To do this, go in Settings, then `Accessibility > Color and motion > Color correction`, and set it to grayscale.
 * While still in the `Color correction` submenu, click `Color correction shortcut`, set it to `Hold both volume keys`, and toggle it on.
+---
 #### Developer Settings - Monochrome Mode
 1. Enable Developer settings in Android (click build number 5 times).
 2. Enable Monochrome Mode within Developer settings. 
 
 ## iOS
+
+---
 
 * Author does not use an iPhone, but contributions are welcome.
 
