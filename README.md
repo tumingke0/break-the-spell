@@ -23,7 +23,7 @@
 ## Contents
 
 - [Android](#android)
-  - [Free and Open Source (FOSS)](#open-source)
+  - [Free and Open Source (FOSS)](#Free-and-Open-Source-Software-(FOSS))
   - [Proprietary](#proprietary)
 - [iOS](#ios)
 
@@ -31,6 +31,7 @@
 
 ## Android
 ### Free and Open Source Software (FOSS)
+* "Free and open-source software (FOSS) is software that is available under a license that grants the right to use, modify, and distribute the software, modified or not, to everyone free of charge."
 #### DetoxDroid
 - [Repository](https://github.com/flxapps/DetoxDroid)
 ##### Features
