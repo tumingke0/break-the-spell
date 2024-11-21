@@ -10,16 +10,11 @@
 
 :magic_wand: Break the spell of addictive smart phone technology. :magic_wand:
 
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
-
 <!-- description -->
 
 * A list of various tools for breaking the spell of addictive smart phone technology, and features for protecting the users health.
 * The author has a bias towards open source software, however all programs are evaulated based on their features.
+* Privacy violating applications are not welcome.
 
 </div>
 
@@ -129,6 +124,29 @@
 
 ---
 
+#### ScreenZen
+- [Play Store](https://play.google.com/store/apps/details?id=com.screenzen&hl=en-US)
+##### Features
+* Delay before opening
+* Interrupt scrolling
+* Set app goal and block
+* Configurable schedule
+* Alert messages
+* Distracting app screen time
+* Strict block
+* Settings lock
+* Breathing exercises
+* Streaks
+##### Cost
+* Free!
+##### Permissions
+* Network Required: No. :fire:
+* ADB: Yes - for grayscale.
+##### Editors Note
+* I use this application.
+
+---
+
 ### Built in Features
 
 ---
@@ -146,9 +164,6 @@
 2. Enable Monochrome Mode within Developer settings. 
 
 ## iOS
-
----
-
 * Author does not use an iPhone, but contributions are welcome.
 
 <!-- END CONTENT -->
