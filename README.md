@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-Break the spell of addictive smart phone technology.
+:magic_wand: Break the spell of addictive smart phone technology. :magic_wand:
 
 <!-- image -->
 
@@ -47,7 +47,8 @@ Break the spell of addictive smart phone technology.
 ##### Cost
 * Free!
 ##### Permissions
-Network Required: NO
+* Network: NO :fire:
+* ADB: Yes as expected for grayscale.
 ##### Authors Note
 * Farhans grayscale application detection is currently better.
 * I use this application.
@@ -63,8 +64,8 @@ Network Required: NO
 ##### Cost
 * Free!
 ##### Permissions
-Network Required: NO
-ADB: Yes - for grayscale.
+* Network Required: NO :fire:
+* ADB: Yes as expected for grayscale.
 ##### Authors Note
 * Best open source grayscaling of applications.
 * I use this application.
@@ -83,7 +84,7 @@ ADB: Yes - for grayscale.
 ##### Cost
 * Free!
 ##### Permissions
-Network Required: NO
+* Network Required: NO :fire:
 ##### Editors Note
 * Best application of its type.
 * I use this application.
@@ -101,7 +102,7 @@ Network Required: NO
 ##### Cost
 * Free!
 ##### Permissions
-Network Required: Unknown
+* Network Required: Unknown
 ##### Editors Note
 * Not supported on many devices and custom roms i.e. [GrapheneOS](https://grapheneos.org/)
 
@@ -113,8 +114,8 @@ Network Required: Unknown
 ##### Cost
 * Free!
 ##### Permissions
-Network Required: No.
-ADB: Yes - for grayscale.
+* Network Required: No. :fire:
+* ADB: Yes - for grayscale.
 ##### Editors Note
 * You will need to piece things together to make this work, however it can be entirely custom to you.
 
