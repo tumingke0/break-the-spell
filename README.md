@@ -69,6 +69,22 @@
 
 ---
 
+#### Open TimeLimit
+- [FDroid](https://f-droid.org/en/packages/io.timelimit.android.open/)
+##### Features
+* Apps are grouped to categories (a category can contain one or multiple App).
+* You can chose per category at which times it should be allowed. This allows preventing playing games too late.
+* Additionally, you can configure time limit rules. These rules limit the total usage duration at one day or over multiple days (e.g. a weekend). It is possible to combine both, e.g. 2 hours per week end day, but in total only 3 hours.
+* Moreover, there is the possibility to set an extra time. This allows using something longer than regulary once. This can be used as bonus. There is additionally the option to disable all time limits temporarily (e.g. for the whole day or an hour).
+##### Cost
+* Free!
+##### Permissions
+* Network Required: NO :fire:
+##### Authors Note
+* Unfortunately this app lacks any splash feature to make the user reconsider using the app like ScreenZen.
+
+---
+
 ### Proprietary
 #### 20 20 20 Eye Care
 - [Play Store](https://play.google.com/store/apps/details?id=com.mexdesigns.app202020&hl=en-US)
