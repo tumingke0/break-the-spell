@@ -184,6 +184,8 @@
 ##### Editors Note
 * Recommended :star:
 
+---
+
 #### minimalist phone: Screen Time
 - [Play Store](https://play.google.com/store/apps/details?id=com.qqlabs.minimalistlauncher)
 ##### Features
