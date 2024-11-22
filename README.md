@@ -152,7 +152,7 @@
 - [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_AU)
 ##### Features
 * Almost anything is possible using Tasker.
-* It is possible to set grayscale based on what application is open, time of day, etc.
+* It is possible to set grayscale based on what application is open, time of day, etc. i.e. https://news.ycombinator.com/item?id=40461985
 * Also possible to set custom app timers.
 ##### Cost
 * Free!
@@ -185,6 +185,21 @@
 * ADB: Yes - for grayscale.
 ##### Editors Note
 * Recommended :star:
+
+---
+
+#### one sec | app blocker, focus
+- [Play Store](https://play.google.com/store/apps/details?id=wtf.riedel.onesec&hl=en_AU)
+##### Features
+* Automated second thought
+* Block social media apps that distract you the most
+* You can block websites as well
+##### Cost
+* Limited to one application for free users.
+##### Permissions
+* Network Required: No. :fire:
+##### Editors Note
+* ScreenZen has more features and almost full capabilities for free users.
 
 ---
 
