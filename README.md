@@ -225,6 +225,8 @@
 
 ---
 
+#### Night Light
+* Settings > Display > Night Light > Click setting to adjust intensity.
 #### Color correction - Grayscale
 ##### Quick Action
 ---
